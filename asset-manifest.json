@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.37168e45.chunk.css",
-    "main.js": "/static/js/main.6410e9ca.chunk.js",
-    "main.js.map": "/static/js/main.6410e9ca.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c90c0fa0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c90c0fa0.js.map",
-    "static/js/2.e2fd9cce.chunk.js": "/static/js/2.e2fd9cce.chunk.js",
-    "static/js/2.e2fd9cce.chunk.js.map": "/static/js/2.e2fd9cce.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0446bb972aad5a0a98e0b16f1ccbbe4a.js": "/precache-manifest.0446bb972aad5a0a98e0b16f1ccbbe4a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.37168e45.chunk.css.map": "/static/css/main.37168e45.chunk.css.map",
-    "static/js/2.e2fd9cce.chunk.js.LICENSE.txt": "/static/js/2.e2fd9cce.chunk.js.LICENSE.txt"
+    "main.css": "/NHLclickyGame/static/css/main.37168e45.chunk.css",
+    "main.js": "/NHLclickyGame/static/js/main.2b69e3ed.chunk.js",
+    "main.js.map": "/NHLclickyGame/static/js/main.2b69e3ed.chunk.js.map",
+    "runtime-main.js": "/NHLclickyGame/static/js/runtime-main.a9edf1f3.js",
+    "runtime-main.js.map": "/NHLclickyGame/static/js/runtime-main.a9edf1f3.js.map",
+    "static/js/2.e28e3a2a.chunk.js": "/NHLclickyGame/static/js/2.e28e3a2a.chunk.js",
+    "static/js/2.e28e3a2a.chunk.js.map": "/NHLclickyGame/static/js/2.e28e3a2a.chunk.js.map",
+    "index.html": "/NHLclickyGame/index.html",
+    "precache-manifest.309ad46b3c7d365d1dc0916ebe3d5a21.js": "/NHLclickyGame/precache-manifest.309ad46b3c7d365d1dc0916ebe3d5a21.js",
+    "service-worker.js": "/NHLclickyGame/service-worker.js",
+    "static/css/main.37168e45.chunk.css.map": "/NHLclickyGame/static/css/main.37168e45.chunk.css.map",
+    "static/js/2.e28e3a2a.chunk.js.LICENSE.txt": "/NHLclickyGame/static/js/2.e28e3a2a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c90c0fa0.js",
-    "static/js/2.e2fd9cce.chunk.js",
+    "static/js/runtime-main.a9edf1f3.js",
+    "static/js/2.e28e3a2a.chunk.js",
     "static/css/main.37168e45.chunk.css",
-    "static/js/main.6410e9ca.chunk.js"
+    "static/js/main.2b69e3ed.chunk.js"
   ]
 }
